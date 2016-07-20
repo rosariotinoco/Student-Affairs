@@ -1,0 +1,19 @@
+{
+  "name": "student-affairs",
+  "version": "1.0.0",
+  "description": "Our Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosariotinoco/Student-Affairs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosariotinoco/Student-Affairs/issues"
+  },
+  "homepage": "https://github.com/rosariotinoco/Student-Affairs#readme"
+}
