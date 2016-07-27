@@ -1,7 +1,7 @@
 {
   "name": "student-affairs",
   "version": "1.0.0",
-  "description": "Our Project",
+  "description": "the greatest site ever",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/rosariotinoco/Student-Affairs.git"
   },
-  "author": "",
+  "author": "rosariotinoco",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rosariotinoco/Student-Affairs/issues"
   },
-  "homepage": "https://github.com/rosariotinoco/Student-Affairs#readme"
+  "homepage": "https://github.com/rosariotinoco/Student-Affairs#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "normalize.css": "^4.2.0"
+  }
 }
